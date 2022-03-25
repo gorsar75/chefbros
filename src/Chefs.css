@@ -1,0 +1,21 @@
+div {
+    display: compact;
+    background: wheat;
+    text-align: justify-all;
+    padding: 10px;
+}
+h2{
+    font-size: xx-large;
+    font-weight: bolder;
+    text-align: center;
+    color: darkblue;
+    padding-bottom: inherit;
+}
+img {
+    width: 50%;
+    height: 50%;
+}
+p {
+  font-size: larger;
+
+}
